@@ -1,0 +1,5 @@
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\BackIn30Minutes.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\BackIn30Minutes.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\BackIn30Minutes.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\BackIn30Minutes.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\BackIn30Minutes.pdb

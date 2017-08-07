@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe.config
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.pdb
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.pdb

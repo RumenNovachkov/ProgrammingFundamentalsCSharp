@@ -1,0 +1,7 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TypeBoundaries\bin\Debug\TypeBoundaries.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TypeBoundaries\bin\Debug\TypeBoundaries.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TypeBoundaries\bin\Debug\TypeBoundaries.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TypeBoundaries\obj\Debug\TypeBoundaries.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TypeBoundaries\obj\Debug\TypeBoundaries.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TypeBoundaries\bin\Debug\TypeBoundaries.exe.CodeAnalysisLog.xml
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TypeBoundaries\bin\Debug\TypeBoundaries.exe.lastcodeanalysissucceeded

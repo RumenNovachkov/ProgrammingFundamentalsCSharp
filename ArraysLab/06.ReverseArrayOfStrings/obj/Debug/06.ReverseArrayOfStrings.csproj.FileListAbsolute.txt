@@ -1,0 +1,1 @@
+C:\Users\r.novachkov\Desktop\ArraysLab\06.ReverseArrayOfStrings\bin\Debug\06.ReverseArrayOfStrings.exe.config

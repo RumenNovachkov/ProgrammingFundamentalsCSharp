@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\Rectangle Properties\bin\Debug\Rectangle Properties.exe.config
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\Rectangle Properties\bin\Debug\Rectangle Properties.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\Rectangle Properties\bin\Debug\Rectangle Properties.pdb
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\Rectangle Properties\obj\Debug\RectangleProperties.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\Rectangle Properties\obj\Debug\Rectangle Properties.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\Rectangle Properties\obj\Debug\Rectangle Properties.pdb

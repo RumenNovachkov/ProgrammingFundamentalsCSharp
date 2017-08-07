@@ -1,0 +1,1 @@
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe.config

@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\SentenceTheThief\bin\Debug\SentenceTheThief.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\SentenceTheThief\bin\Debug\SentenceTheThief.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\SentenceTheThief\bin\Debug\SentenceTheThief.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\SentenceTheThief\obj\Debug\SentenceTheThief.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\SentenceTheThief\obj\Debug\SentenceTheThief.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\SentenceTheThief\obj\Debug\SentenceTheThief.pdb

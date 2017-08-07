@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\DictionariesAndLists-MoreExercises\ParkingValidation\bin\Debug\ParkingValidation.exe.config
+C:\Users\r.novachkov\Desktop\DictionariesAndLists-MoreExercises\ParkingValidation\obj\Debug\ParkingValidation.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\DictionariesAndLists-MoreExercises\ParkingValidation\bin\Debug\ParkingValidation.exe
+C:\Users\r.novachkov\Desktop\DictionariesAndLists-MoreExercises\ParkingValidation\bin\Debug\ParkingValidation.pdb
+C:\Users\r.novachkov\Desktop\DictionariesAndLists-MoreExercises\ParkingValidation\obj\Debug\ParkingValidation.exe
+C:\Users\r.novachkov\Desktop\DictionariesAndLists-MoreExercises\ParkingValidation\obj\Debug\ParkingValidation.pdb

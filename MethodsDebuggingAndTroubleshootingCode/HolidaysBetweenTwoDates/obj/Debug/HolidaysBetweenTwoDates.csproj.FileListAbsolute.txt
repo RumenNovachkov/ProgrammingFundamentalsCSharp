@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.pdb

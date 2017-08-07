@@ -1,0 +1,8 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\NumberChecker\bin\Debug\NumberChecker.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\NumberChecker\bin\Debug\NumberChecker.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\NumberChecker\bin\Debug\NumberChecker.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\NumberChecker\obj\Debug\NumberChecker.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\NumberChecker\obj\Debug\NumberChecker.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\NumberChecker\bin\Debug\NumberChecker.exe.CodeAnalysisLog.xml
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\NumberChecker\bin\Debug\NumberChecker.exe.lastcodeanalysissucceeded
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\NumberChecker\obj\Debug\NumberChecker.csprojResolveAssemblyReference.cache

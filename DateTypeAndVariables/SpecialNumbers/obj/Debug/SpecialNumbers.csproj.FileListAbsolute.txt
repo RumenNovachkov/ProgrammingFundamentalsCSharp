@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

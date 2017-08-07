@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\Numbers in Reversed Order\bin\Debug\Numbers in Reversed Order.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\Numbers in Reversed Order\bin\Debug\Numbers in Reversed Order.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\Numbers in Reversed Order\bin\Debug\Numbers in Reversed Order.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\Numbers in Reversed Order\obj\Debug\Numbers in Reversed Order.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\Numbers in Reversed Order\obj\Debug\Numbers in Reversed Order.pdb

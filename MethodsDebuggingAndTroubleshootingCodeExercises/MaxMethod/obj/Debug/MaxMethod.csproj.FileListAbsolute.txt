@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\bin\Debug\MaxMethod.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\bin\Debug\MaxMethod.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\bin\Debug\MaxMethod.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\obj\Debug\MaxMethod.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\MaxMethod\obj\Debug\MaxMethod.pdb

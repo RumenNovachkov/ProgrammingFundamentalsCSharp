@@ -1,0 +1,1 @@
+C:\Users\r.novachkov\Desktop\RegEx-Lab\06.ReplaceATag\bin\Debug\06.ReplaceATag.exe.config

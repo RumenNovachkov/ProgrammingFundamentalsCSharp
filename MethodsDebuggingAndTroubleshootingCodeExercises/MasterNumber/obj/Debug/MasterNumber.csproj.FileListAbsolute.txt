@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\MasterNumber\bin\Debug\MasterNumber.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\MasterNumber\bin\Debug\MasterNumber.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\MasterNumber\bin\Debug\MasterNumber.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\MasterNumber\obj\Debug\MasterNumber.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\MasterNumber\obj\Debug\MasterNumber.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\MasterNumber\obj\Debug\MasterNumber.pdb

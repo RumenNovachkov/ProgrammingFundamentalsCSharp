@@ -1,0 +1,1 @@
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\CSharpIntroAndBasicSyntaxLab\Greeting\bin\Debug\Greeting.exe.config

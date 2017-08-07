@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WeatherForecast\bin\Debug\WeatherForecast.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WeatherForecast\bin\Debug\WeatherForecast.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WeatherForecast\obj\Debug\WeatherForecast.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WeatherForecast\obj\Debug\WeatherForecast.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WeatherForecast\obj\Debug\WeatherForecast.pdb

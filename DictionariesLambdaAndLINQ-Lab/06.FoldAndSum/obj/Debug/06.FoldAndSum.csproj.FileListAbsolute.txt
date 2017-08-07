@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\06.FoldAndSum\bin\Debug\06.FoldAndSum.exe.config
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\06.FoldAndSum\bin\Debug\06.FoldAndSum.exe
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\06.FoldAndSum\bin\Debug\06.FoldAndSum.pdb
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\06.FoldAndSum\obj\Debug\06.FoldAndSum.exe
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\06.FoldAndSum\obj\Debug\06.FoldAndSum.pdb

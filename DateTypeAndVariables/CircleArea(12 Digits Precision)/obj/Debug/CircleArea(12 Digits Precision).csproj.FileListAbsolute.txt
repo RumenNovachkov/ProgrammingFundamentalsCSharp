@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\CircleArea(12 Digits Precision)\bin\Debug\CircleArea(12 Digits Precision).exe.config
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\CircleArea(12 Digits Precision)\bin\Debug\CircleArea(12 Digits Precision).exe
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\CircleArea(12 Digits Precision)\bin\Debug\CircleArea(12 Digits Precision).pdb
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\CircleArea(12 Digits Precision)\obj\Debug\CircleArea(12 Digits Precision).exe
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\CircleArea(12 Digits Precision)\obj\Debug\CircleArea(12 Digits Precision).pdb

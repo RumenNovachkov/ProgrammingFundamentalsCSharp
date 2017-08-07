@@ -1,0 +1,2 @@
+C:\Users\r.novachkov\Desktop\ArraysLab\01.DayOfWeek\bin\Debug\01.DayOfWeek.exe.config
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ArraysLab\01.DayOfWeek\bin\Debug\01.DayOfWeek.exe.config

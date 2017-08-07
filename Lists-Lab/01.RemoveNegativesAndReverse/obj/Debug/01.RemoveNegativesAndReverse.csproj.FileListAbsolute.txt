@@ -1,0 +1,2 @@
+C:\Users\r.novachkov\Desktop\Lists-Lab\01.RemoveNegativesAndReverse\bin\Debug\01.RemoveNegativesAndReverse.exe.config
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\Lists-Lab\01.RemoveNegativesAndReverse\bin\Debug\01.RemoveNegativesAndReverse.exe.config

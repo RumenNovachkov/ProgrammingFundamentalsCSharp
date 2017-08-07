@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\ReversedChars\bin\Debug\ReversedChars.exe.config
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\ReversedChars\bin\Debug\ReversedChars.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\ReversedChars\bin\Debug\ReversedChars.pdb
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\ReversedChars\obj\Debug\ReversedChars.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\ReversedChars\obj\Debug\ReversedChars.pdb

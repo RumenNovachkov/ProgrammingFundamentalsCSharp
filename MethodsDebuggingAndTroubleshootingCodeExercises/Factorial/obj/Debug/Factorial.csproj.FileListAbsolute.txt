@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\bin\Debug\Factorial.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\bin\Debug\Factorial.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\obj\Debug\Factorial.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\Factorial\obj\Debug\Factorial.pdb

@@ -1,0 +1,1 @@
+C:\Users\r.novachkov\Desktop\RegEx-Lab\03.MatchHexadecimalNumbers\bin\Debug\03.MatchHexadecimalNumbers.exe.config

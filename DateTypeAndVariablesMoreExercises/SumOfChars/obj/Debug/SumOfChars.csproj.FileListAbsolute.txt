@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\SumOfChars\bin\Debug\SumOfChars.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\SumOfChars\bin\Debug\SumOfChars.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\SumOfChars\bin\Debug\SumOfChars.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\SumOfChars\obj\Debug\SumOfChars.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\SumOfChars\obj\Debug\SumOfChars.pdb

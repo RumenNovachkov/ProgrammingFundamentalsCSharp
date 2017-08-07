@@ -1,0 +1,9 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\Blank Receipt\bin\Debug\Blank Receipt.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\Blank Receipt\bin\Debug\Blank Receipt.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\Blank Receipt\bin\Debug\Blank Receipt.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\Blank Receipt\obj\Debug\Blank Receipt.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\Blank Receipt\obj\Debug\Blank Receipt.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\Blank Receipt\obj\Debug\Blank Receipt.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\Blank Receipt\bin\Debug\Blank Receipt.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\Blank Receipt\obj\Debug\Blank Receipt.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\Blank Receipt\obj\Debug\Blank Receipt.pdb

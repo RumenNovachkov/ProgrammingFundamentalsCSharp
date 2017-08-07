@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\08.UpgradedMatcher\bin\Debug\08.UpgradedMatcher.exe.config
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\08.UpgradedMatcher\bin\Debug\08.UpgradedMatcher.exe
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\08.UpgradedMatcher\bin\Debug\08.UpgradedMatcher.pdb
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\08.UpgradedMatcher\obj\Debug\08.UpgradedMatcher.exe
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\08.UpgradedMatcher\obj\Debug\08.UpgradedMatcher.pdb
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\08.UpgradedMatcher\obj\Debug\08.UpgradedMatcher.csprojResolveAssemblyReference.cache

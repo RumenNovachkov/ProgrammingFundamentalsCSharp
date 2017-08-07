@@ -1,0 +1,6 @@
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.csprojResolveAssemblyReference.cache
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.pdb

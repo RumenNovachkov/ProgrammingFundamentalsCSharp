@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\Lists-Exercises\02.ChangeList\bin\Debug\02.ChangeList.exe.config
+C:\Users\r.novachkov\Desktop\Lists-Exercises\02.ChangeList\bin\Debug\02.ChangeList.exe
+C:\Users\r.novachkov\Desktop\Lists-Exercises\02.ChangeList\bin\Debug\02.ChangeList.pdb
+C:\Users\r.novachkov\Desktop\Lists-Exercises\02.ChangeList\obj\Debug\02.ChangeList.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\Lists-Exercises\02.ChangeList\obj\Debug\02.ChangeList.exe
+C:\Users\r.novachkov\Desktop\Lists-Exercises\02.ChangeList\obj\Debug\02.ChangeList.pdb

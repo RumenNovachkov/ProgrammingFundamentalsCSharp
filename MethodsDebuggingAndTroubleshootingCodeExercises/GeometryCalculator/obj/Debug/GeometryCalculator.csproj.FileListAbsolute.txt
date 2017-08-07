@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\GeometryCalculator\bin\Debug\GeometryCalculator.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\GeometryCalculator\bin\Debug\GeometryCalculator.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\GeometryCalculator\obj\Debug\GeometryCalculator.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\GeometryCalculator\obj\Debug\GeometryCalculator.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\GeometryCalculator\obj\Debug\GeometryCalculator.pdb

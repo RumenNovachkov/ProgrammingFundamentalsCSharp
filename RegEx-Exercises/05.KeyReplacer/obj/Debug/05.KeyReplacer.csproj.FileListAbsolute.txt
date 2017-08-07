@@ -1,0 +1,1 @@
+C:\Users\r.novachkov\Desktop\RegEx-Exercises\05.KeyReplacer\bin\Debug\05.KeyReplacer.exe.config

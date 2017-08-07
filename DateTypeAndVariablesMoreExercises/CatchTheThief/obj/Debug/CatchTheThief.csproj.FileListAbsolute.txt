@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\CatchTheThief\bin\Debug\CatchTheThief.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\CatchTheThief\bin\Debug\CatchTheThief.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\CatchTheThief\bin\Debug\CatchTheThief.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\CatchTheThief\obj\Debug\CatchTheThief.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\CatchTheThief\obj\Debug\CatchTheThief.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\CatchTheThief\obj\Debug\CatchTheThief.pdb

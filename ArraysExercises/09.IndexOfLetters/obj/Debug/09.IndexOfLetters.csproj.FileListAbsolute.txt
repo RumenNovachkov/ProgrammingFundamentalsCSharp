@@ -1,0 +1,9 @@
+C:\Users\r.novachkov\Desktop\ArraysExercises\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.exe.config
+C:\Users\r.novachkov\Desktop\ArraysExercises\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.exe
+C:\Users\r.novachkov\Desktop\ArraysExercises\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.pdb
+C:\Users\r.novachkov\Desktop\ArraysExercises\09.IndexOfLetters\obj\Debug\09.IndexOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\ArraysExercises\09.IndexOfLetters\obj\Debug\09.IndexOfLetters.exe
+C:\Users\r.novachkov\Desktop\ArraysExercises\09.IndexOfLetters\obj\Debug\09.IndexOfLetters.pdb
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ArraysExercises\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.exe.config
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ArraysExercises\09.IndexOfLetters\obj\Debug\09.IndexOfLetters.exe
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ArraysExercises\09.IndexOfLetters\obj\Debug\09.IndexOfLetters.pdb

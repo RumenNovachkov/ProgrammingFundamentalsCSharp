@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\BoatSimulator\bin\Debug\BoatSimulator.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\BoatSimulator\bin\Debug\BoatSimulator.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\BoatSimulator\bin\Debug\BoatSimulator.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\BoatSimulator\obj\Debug\BoatSimulator.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\BoatSimulator\obj\Debug\BoatSimulator.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\BoatSimulator\obj\Debug\BoatSimulator.pdb

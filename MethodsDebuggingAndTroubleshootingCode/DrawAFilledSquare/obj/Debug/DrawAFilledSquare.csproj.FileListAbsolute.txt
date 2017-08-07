@@ -1,0 +1,8 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.pdb

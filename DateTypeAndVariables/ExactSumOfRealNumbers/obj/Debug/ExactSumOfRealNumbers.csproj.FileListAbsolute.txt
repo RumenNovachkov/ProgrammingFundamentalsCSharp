@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb

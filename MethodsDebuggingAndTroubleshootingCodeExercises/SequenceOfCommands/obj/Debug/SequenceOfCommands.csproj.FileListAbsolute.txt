@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\SequenceOfCommands\bin\Debug\SequenceOfCommands.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\SequenceOfCommands\bin\Debug\SequenceOfCommands.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\SequenceOfCommands\bin\Debug\SequenceOfCommands.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\SequenceOfCommands\obj\Debug\SequenceOfCommands.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\SequenceOfCommands\obj\Debug\SequenceOfCommands.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\SequenceOfCommands\obj\Debug\SequenceOfCommands.pdb

@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeIntegers\bin\Debug\PracticeIntegers.exe.config
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeIntegers\bin\Debug\PracticeIntegers.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeIntegers\bin\Debug\PracticeIntegers.pdb
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeIntegers\obj\Debug\PracticeIntegers.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeIntegers\obj\Debug\PracticeIntegers.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeIntegers\obj\Debug\PracticeIntegers.pdb

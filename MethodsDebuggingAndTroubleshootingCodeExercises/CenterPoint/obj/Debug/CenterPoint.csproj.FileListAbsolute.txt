@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\bin\Debug\CenterPoint.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\bin\Debug\CenterPoint.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\bin\Debug\CenterPoint.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\obj\Debug\CenterPoint.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\CenterPoint\obj\Debug\CenterPoint.pdb

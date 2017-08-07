@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\DecryptingMessage\bin\Debug\DecryptingMessage.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\DecryptingMessage\bin\Debug\DecryptingMessage.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\DecryptingMessage\bin\Debug\DecryptingMessage.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\DecryptingMessage\obj\Debug\DecryptingMessage.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\DecryptingMessage\obj\Debug\DecryptingMessage.pdb

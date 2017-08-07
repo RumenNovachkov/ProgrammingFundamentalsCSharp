@@ -1,0 +1,1 @@
+C:\Users\r.novachkov\Desktop\RegEx-Exercises\02.ExtractSentencesByKeyword\bin\Debug\02.ExtractSentencesByKeyword.exe.config

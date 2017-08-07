@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe.config
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb

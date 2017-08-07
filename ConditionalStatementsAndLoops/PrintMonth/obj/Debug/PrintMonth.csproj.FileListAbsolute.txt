@@ -1,0 +1,5 @@
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\PrintMonth\bin\Debug\PrintMonth.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\PrintMonth\bin\Debug\PrintMonth.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\PrintMonth\bin\Debug\PrintMonth.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\PrintMonth\obj\Debug\PrintMonth.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\PrintMonth\obj\Debug\PrintMonth.pdb

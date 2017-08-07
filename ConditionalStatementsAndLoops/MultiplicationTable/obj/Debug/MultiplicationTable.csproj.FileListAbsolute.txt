@@ -1,0 +1,5 @@
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

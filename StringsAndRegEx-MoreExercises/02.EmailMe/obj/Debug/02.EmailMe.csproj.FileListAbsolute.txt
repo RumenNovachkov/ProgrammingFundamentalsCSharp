@@ -1,0 +1,1 @@
+C:\Users\r.novachkov\Desktop\StringsAndRegEx-MoreExercises\02.EmailMe\bin\Debug\02.EmailMe.exe.config

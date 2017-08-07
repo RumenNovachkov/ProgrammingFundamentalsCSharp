@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\04.GrabAndGo\bin\Debug\04.GrabAndGo.exe.config
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\04.GrabAndGo\bin\Debug\04.GrabAndGo.exe
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\04.GrabAndGo\bin\Debug\04.GrabAndGo.pdb
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\04.GrabAndGo\obj\Debug\04.GrabAndGo.exe
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\04.GrabAndGo\obj\Debug\04.GrabAndGo.pdb

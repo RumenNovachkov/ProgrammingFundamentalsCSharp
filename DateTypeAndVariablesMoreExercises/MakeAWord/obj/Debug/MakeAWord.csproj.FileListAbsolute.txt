@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\MakeAWord\bin\Debug\MakeAWord.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\MakeAWord\bin\Debug\MakeAWord.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\MakeAWord\bin\Debug\MakeAWord.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\MakeAWord\obj\Debug\MakeAWord.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\MakeAWord\obj\Debug\MakeAWord.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\MakeAWord\obj\Debug\MakeAWord.csprojResolveAssemblyReference.cache

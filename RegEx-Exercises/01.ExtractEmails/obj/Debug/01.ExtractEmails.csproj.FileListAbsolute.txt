@@ -1,0 +1,1 @@
+C:\Users\r.novachkov\Desktop\RegEx-Exercises\01.ExtractEmails\bin\Debug\01.ExtractEmails.exe.config

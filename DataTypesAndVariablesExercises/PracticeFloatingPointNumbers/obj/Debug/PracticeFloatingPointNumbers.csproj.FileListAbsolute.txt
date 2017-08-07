@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe.config
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.pdb
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.pdb

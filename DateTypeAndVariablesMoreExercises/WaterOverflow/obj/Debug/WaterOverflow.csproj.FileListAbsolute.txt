@@ -1,0 +1,8 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WaterOverflow\bin\Debug\WaterOverflow.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WaterOverflow\bin\Debug\WaterOverflow.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WaterOverflow\bin\Debug\WaterOverflow.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WaterOverflow\obj\Debug\WaterOverflow.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WaterOverflow\obj\Debug\WaterOverflow.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WaterOverflow\obj\Debug\WaterOverflow.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WaterOverflow\bin\Debug\WaterOverflow.exe.CodeAnalysisLog.xml
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\WaterOverflow\bin\Debug\WaterOverflow.exe.lastcodeanalysissucceeded

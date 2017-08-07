@@ -1,0 +1,9 @@
+C:\Users\r.novachkov\Desktop\ArraysExercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe.config
+C:\Users\r.novachkov\Desktop\ArraysExercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe
+C:\Users\r.novachkov\Desktop\ArraysExercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.pdb
+C:\Users\r.novachkov\Desktop\ArraysExercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\ArraysExercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.exe
+C:\Users\r.novachkov\Desktop\ArraysExercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.pdb
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ArraysExercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe.config
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ArraysExercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.exe
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ArraysExercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.pdb

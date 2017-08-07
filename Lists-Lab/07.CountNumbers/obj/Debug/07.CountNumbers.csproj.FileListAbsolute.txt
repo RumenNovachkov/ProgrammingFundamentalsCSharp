@@ -1,0 +1,2 @@
+C:\Users\r.novachkov\Desktop\Lists-Lab\07.CountNumbers\bin\Debug\07.CountNumbers.exe.config
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\Lists-Lab\07.CountNumbers\bin\Debug\07.CountNumbers.exe.config

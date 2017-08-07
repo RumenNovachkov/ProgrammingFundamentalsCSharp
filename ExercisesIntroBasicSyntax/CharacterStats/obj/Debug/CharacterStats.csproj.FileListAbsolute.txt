@@ -1,0 +1,5 @@
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\CharacterStats\bin\Debug\CharacterStats.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\CharacterStats\obj\Debug\CharacterStats.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\CharacterStats\obj\Debug\CharacterStats.pdb

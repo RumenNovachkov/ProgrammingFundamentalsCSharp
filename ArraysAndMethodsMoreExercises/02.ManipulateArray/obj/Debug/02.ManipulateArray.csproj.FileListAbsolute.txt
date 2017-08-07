@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\02.ManipulateArray\bin\Debug\02.ManipulateArray.exe.config
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\02.ManipulateArray\bin\Debug\02.ManipulateArray.exe
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\02.ManipulateArray\bin\Debug\02.ManipulateArray.pdb
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\02.ManipulateArray\obj\Debug\02.ManipulateArray.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\02.ManipulateArray\obj\Debug\02.ManipulateArray.exe
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\02.ManipulateArray\obj\Debug\02.ManipulateArray.pdb

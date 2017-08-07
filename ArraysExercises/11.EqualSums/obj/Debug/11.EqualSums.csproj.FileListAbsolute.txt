@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\ArraysExercises\11.EqualSums\bin\Debug\11.EqualSums.exe.config
+C:\Users\r.novachkov\Desktop\ArraysExercises\11.EqualSums\bin\Debug\11.EqualSums.exe
+C:\Users\r.novachkov\Desktop\ArraysExercises\11.EqualSums\bin\Debug\11.EqualSums.pdb
+C:\Users\r.novachkov\Desktop\ArraysExercises\11.EqualSums\obj\Debug\11.EqualSums.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\ArraysExercises\11.EqualSums\obj\Debug\11.EqualSums.exe
+C:\Users\r.novachkov\Desktop\ArraysExercises\11.EqualSums\obj\Debug\11.EqualSums.pdb

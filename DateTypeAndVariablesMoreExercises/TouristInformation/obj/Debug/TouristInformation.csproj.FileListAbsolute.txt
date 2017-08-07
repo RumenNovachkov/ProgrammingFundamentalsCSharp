@@ -1,0 +1,8 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TouristInformation\bin\Debug\TouristInformation.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TouristInformation\bin\Debug\TouristInformation.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TouristInformation\bin\Debug\TouristInformation.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TouristInformation\obj\Debug\TouristInformation.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TouristInformation\obj\Debug\TouristInformation.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TouristInformation\bin\Debug\TouristInformation.exe.CodeAnalysisLog.xml
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TouristInformation\bin\Debug\TouristInformation.exe.lastcodeanalysissucceeded
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\TouristInformation\obj\Debug\TouristInformation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\Passed\bin\Debug\Passed.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\Passed\bin\Debug\Passed.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\Passed\bin\Debug\Passed.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\Passed\obj\Debug\Passed.csprojResolveAssemblyReference.cache
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\Passed\obj\Debug\Passed.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\Passed\obj\Debug\Passed.pdb

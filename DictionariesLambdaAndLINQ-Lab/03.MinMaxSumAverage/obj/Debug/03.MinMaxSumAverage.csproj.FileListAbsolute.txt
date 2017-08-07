@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\03.MinMaxSumAverage\bin\Debug\03.MinMaxSumAverage.exe.config
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\03.MinMaxSumAverage\bin\Debug\03.MinMaxSumAverage.exe
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\03.MinMaxSumAverage\bin\Debug\03.MinMaxSumAverage.pdb
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\03.MinMaxSumAverage\obj\Debug\03.MinMaxSumAverage.exe
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\03.MinMaxSumAverage\obj\Debug\03.MinMaxSumAverage.pdb

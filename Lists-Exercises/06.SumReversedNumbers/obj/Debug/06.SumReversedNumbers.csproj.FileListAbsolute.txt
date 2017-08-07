@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\Lists-Exercises\06.SumReversedNumbers\bin\Debug\06.SumReversedNumbers.exe.config
+C:\Users\r.novachkov\Desktop\Lists-Exercises\06.SumReversedNumbers\bin\Debug\06.SumReversedNumbers.exe
+C:\Users\r.novachkov\Desktop\Lists-Exercises\06.SumReversedNumbers\bin\Debug\06.SumReversedNumbers.pdb
+C:\Users\r.novachkov\Desktop\Lists-Exercises\06.SumReversedNumbers\obj\Debug\06.SumReversedNumbers.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\Lists-Exercises\06.SumReversedNumbers\obj\Debug\06.SumReversedNumbers.exe
+C:\Users\r.novachkov\Desktop\Lists-Exercises\06.SumReversedNumbers\obj\Debug\06.SumReversedNumbers.pdb

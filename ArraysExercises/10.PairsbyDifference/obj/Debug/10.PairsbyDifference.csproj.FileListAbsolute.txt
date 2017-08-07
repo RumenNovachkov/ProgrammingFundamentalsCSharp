@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\ArraysExercises\10.PairsbyDifference\bin\Debug\10.PairsbyDifference.exe.config
+C:\Users\r.novachkov\Desktop\ArraysExercises\10.PairsbyDifference\bin\Debug\10.PairsbyDifference.exe
+C:\Users\r.novachkov\Desktop\ArraysExercises\10.PairsbyDifference\bin\Debug\10.PairsbyDifference.pdb
+C:\Users\r.novachkov\Desktop\ArraysExercises\10.PairsbyDifference\obj\Debug\10.PairsbyDifference.exe
+C:\Users\r.novachkov\Desktop\ArraysExercises\10.PairsbyDifference\obj\Debug\10.PairsbyDifference.pdb

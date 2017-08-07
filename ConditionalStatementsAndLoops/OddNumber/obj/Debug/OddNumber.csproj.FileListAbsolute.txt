@@ -1,0 +1,5 @@
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\OddNumber\bin\Debug\OddNumber.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\OddNumber\bin\Debug\OddNumber.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\OddNumber\bin\Debug\OddNumber.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\OddNumber\obj\Debug\OddNumber.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ConditionalStatementsAndLoops\OddNumber\obj\Debug\OddNumber.pdb

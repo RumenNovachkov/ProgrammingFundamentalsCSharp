@@ -1,0 +1,6 @@
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.csprojResolveAssemblyReference.cache
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\ExercisesIntroBasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.pdb

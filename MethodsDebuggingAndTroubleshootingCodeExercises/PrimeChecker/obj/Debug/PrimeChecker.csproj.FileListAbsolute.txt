@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\bin\Debug\PrimeChecker.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\bin\Debug\PrimeChecker.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\obj\Debug\PrimeChecker.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\obj\Debug\PrimeChecker.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\PrimeChecker\obj\Debug\PrimeChecker.pdb

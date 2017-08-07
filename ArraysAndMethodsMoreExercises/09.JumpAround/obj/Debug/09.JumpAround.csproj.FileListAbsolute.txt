@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\09.JumpAround\bin\Debug\09.JumpAround.exe.config
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\09.JumpAround\obj\Debug\09.JumpAround.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\09.JumpAround\bin\Debug\09.JumpAround.exe
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\09.JumpAround\bin\Debug\09.JumpAround.pdb
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\09.JumpAround\obj\Debug\09.JumpAround.exe
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\09.JumpAround\obj\Debug\09.JumpAround.pdb

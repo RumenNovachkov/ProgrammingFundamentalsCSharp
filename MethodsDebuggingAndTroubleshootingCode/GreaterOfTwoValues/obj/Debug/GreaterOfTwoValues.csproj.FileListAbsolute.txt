@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.pdb

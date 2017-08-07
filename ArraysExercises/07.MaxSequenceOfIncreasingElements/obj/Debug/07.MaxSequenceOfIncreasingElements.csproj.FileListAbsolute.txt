@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\ArraysExercises\07.MaxSequenceOfIncreasingElements\bin\Debug\07.MaxSequenceOfIncreasingElements.exe.config
+C:\Users\r.novachkov\Desktop\ArraysExercises\07.MaxSequenceOfIncreasingElements\bin\Debug\07.MaxSequenceOfIncreasingElements.exe
+C:\Users\r.novachkov\Desktop\ArraysExercises\07.MaxSequenceOfIncreasingElements\bin\Debug\07.MaxSequenceOfIncreasingElements.pdb
+C:\Users\r.novachkov\Desktop\ArraysExercises\07.MaxSequenceOfIncreasingElements\obj\Debug\07.MaxSequenceOfIncreasingElements.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\ArraysExercises\07.MaxSequenceOfIncreasingElements\obj\Debug\07.MaxSequenceOfIncreasingElements.exe
+C:\Users\r.novachkov\Desktop\ArraysExercises\07.MaxSequenceOfIncreasingElements\obj\Debug\07.MaxSequenceOfIncreasingElements.pdb

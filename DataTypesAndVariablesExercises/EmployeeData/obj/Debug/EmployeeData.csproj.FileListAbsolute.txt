@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\EmployeeData\obj\Debug\EmployeeData.pdb

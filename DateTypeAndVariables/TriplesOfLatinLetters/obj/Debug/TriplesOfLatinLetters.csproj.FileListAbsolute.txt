@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe.config
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.pdb
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.exe
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.pdb

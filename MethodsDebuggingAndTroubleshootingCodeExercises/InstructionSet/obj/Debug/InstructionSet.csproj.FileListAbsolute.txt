@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\InstructionSet\bin\Debug\InstructionSet.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\InstructionSet\bin\Debug\InstructionSet.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\InstructionSet\bin\Debug\InstructionSet.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\InstructionSet\obj\Debug\InstructionSet.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\InstructionSet\obj\Debug\InstructionSet.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\InstructionSet\obj\Debug\InstructionSet.csprojResolveAssemblyReference.cache

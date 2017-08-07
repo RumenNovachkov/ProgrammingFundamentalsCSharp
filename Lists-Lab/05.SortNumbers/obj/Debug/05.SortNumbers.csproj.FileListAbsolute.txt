@@ -1,0 +1,2 @@
+C:\Users\r.novachkov\Desktop\Lists-Lab\05.SortNumbers\bin\Debug\05.SortNumbers.exe.config
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\Lists-Lab\05.SortNumbers\bin\Debug\05.SortNumbers.exe.config

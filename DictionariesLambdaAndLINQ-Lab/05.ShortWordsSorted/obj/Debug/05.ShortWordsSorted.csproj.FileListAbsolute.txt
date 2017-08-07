@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.exe.config
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.exe
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\05.ShortWordsSorted\bin\Debug\05.ShortWordsSorted.pdb
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.exe
+C:\Users\r.novachkov\Desktop\DictionariesLambdaAndLINQ-Lab\05.ShortWordsSorted\obj\Debug\05.ShortWordsSorted.pdb

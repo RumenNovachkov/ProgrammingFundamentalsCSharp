@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\07.InventoryMatcher\bin\Debug\07.InventoryMatcher.exe.config
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\07.InventoryMatcher\bin\Debug\07.InventoryMatcher.exe
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\07.InventoryMatcher\bin\Debug\07.InventoryMatcher.pdb
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\07.InventoryMatcher\obj\Debug\07.InventoryMatcher.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\07.InventoryMatcher\obj\Debug\07.InventoryMatcher.exe
+C:\Users\r.novachkov\Desktop\ArraysAndMethodsMoreExercises\07.InventoryMatcher\obj\Debug\07.InventoryMatcher.pdb

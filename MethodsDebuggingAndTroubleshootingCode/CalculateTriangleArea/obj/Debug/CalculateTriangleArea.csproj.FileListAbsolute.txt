@@ -1,0 +1,9 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.pdb

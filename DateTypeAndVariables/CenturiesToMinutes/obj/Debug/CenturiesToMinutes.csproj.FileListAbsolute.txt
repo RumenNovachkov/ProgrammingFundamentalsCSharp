@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.pdb
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb

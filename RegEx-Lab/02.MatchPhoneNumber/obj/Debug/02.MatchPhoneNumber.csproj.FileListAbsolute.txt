@@ -1,0 +1,1 @@
+C:\Users\r.novachkov\Desktop\RegEx-Lab\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe.config

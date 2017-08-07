@@ -1,0 +1,9 @@
+C:\Users\r.novachkov\Desktop\Lists-Exercises\01.MaxSequenceOfEqualElements\bin\Debug\01.MaxSequenceOfEqualElements.exe.config
+C:\Users\r.novachkov\Desktop\Lists-Exercises\01.MaxSequenceOfEqualElements\bin\Debug\01.MaxSequenceOfEqualElements.exe
+C:\Users\r.novachkov\Desktop\Lists-Exercises\01.MaxSequenceOfEqualElements\bin\Debug\01.MaxSequenceOfEqualElements.pdb
+C:\Users\r.novachkov\Desktop\Lists-Exercises\01.MaxSequenceOfEqualElements\obj\Debug\01.MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\Lists-Exercises\01.MaxSequenceOfEqualElements\obj\Debug\01.MaxSequenceOfEqualElements.exe
+C:\Users\r.novachkov\Desktop\Lists-Exercises\01.MaxSequenceOfEqualElements\obj\Debug\01.MaxSequenceOfEqualElements.pdb
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\Lists-Exercises\01.MaxSequenceOfEqualElements\bin\Debug\01.MaxSequenceOfEqualElements.exe.config
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\Lists-Exercises\01.MaxSequenceOfEqualElements\obj\Debug\01.MaxSequenceOfEqualElements.exe
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\Lists-Exercises\01.MaxSequenceOfEqualElements\obj\Debug\01.MaxSequenceOfEqualElements.pdb

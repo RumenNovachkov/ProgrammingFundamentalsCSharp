@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

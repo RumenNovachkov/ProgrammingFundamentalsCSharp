@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\House Builder\bin\Debug\House Builder.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\House Builder\bin\Debug\House Builder.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\House Builder\bin\Debug\House Builder.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\House Builder\obj\Debug\HouseBuilder.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\House Builder\obj\Debug\House Builder.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\House Builder\obj\Debug\House Builder.pdb

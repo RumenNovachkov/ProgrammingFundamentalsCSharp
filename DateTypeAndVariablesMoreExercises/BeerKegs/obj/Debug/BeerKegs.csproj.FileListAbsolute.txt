@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\BeerKegs\bin\Debug\BeerKegs.exe.config
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\BeerKegs\bin\Debug\BeerKegs.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\BeerKegs\bin\Debug\BeerKegs.pdb
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\BeerKegs\obj\Debug\BeerKegs.exe
+C:\Users\r.novachkov\Desktop\DateTypeAndVariablesMoreExercises\BeerKegs\obj\Debug\BeerKegs.pdb

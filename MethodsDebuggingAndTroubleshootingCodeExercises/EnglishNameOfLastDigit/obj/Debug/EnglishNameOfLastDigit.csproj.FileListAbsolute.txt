@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.exe.config
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.pdb
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.exe
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCodeExercises\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.pdb

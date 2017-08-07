@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\Lists-Lab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.exe.config
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\Lists-Lab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.exe.config
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\Lists-Lab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.exe
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\Lists-Lab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.pdb
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\Lists-Lab\03.SumAdjacentEqualNumbers\obj\Debug\03.SumAdjacentEqualNumbers.exe
+D:\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\Lists-Lab\03.SumAdjacentEqualNumbers\obj\Debug\03.SumAdjacentEqualNumbers.pdb

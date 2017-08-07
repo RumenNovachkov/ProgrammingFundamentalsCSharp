@@ -1,0 +1,6 @@
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\CSharpIntroAndBasicSyntaxLab\EmployeeData\bin\Debug\EmployeeData.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\CSharpIntroAndBasicSyntaxLab\EmployeeData\bin\Debug\EmployeeData.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\CSharpIntroAndBasicSyntaxLab\EmployeeData\bin\Debug\EmployeeData.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\CSharpIntroAndBasicSyntaxLab\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\CSharpIntroAndBasicSyntaxLab\EmployeeData\obj\Debug\EmployeeData.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\CSharpIntroAndBasicSyntaxLab\EmployeeData\obj\Debug\EmployeeData.pdb

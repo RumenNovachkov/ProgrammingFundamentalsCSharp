@@ -1,0 +1,1 @@
+C:\Users\r.novachkov\Desktop\StringsAndTextProcessing-Lab\02.CountSubstring\bin\Debug\02.CountSubstring.exe.config

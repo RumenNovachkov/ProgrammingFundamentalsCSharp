@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

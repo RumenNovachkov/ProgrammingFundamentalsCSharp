@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Desktop\ArraysExercises\06.MaxSequenceOfEqualElements\bin\Debug\06.MaxSequenceOfEqualElements.exe.config
+C:\Users\r.novachkov\Desktop\ArraysExercises\06.MaxSequenceOfEqualElements\bin\Debug\06.MaxSequenceOfEqualElements.exe
+C:\Users\r.novachkov\Desktop\ArraysExercises\06.MaxSequenceOfEqualElements\bin\Debug\06.MaxSequenceOfEqualElements.pdb
+C:\Users\r.novachkov\Desktop\ArraysExercises\06.MaxSequenceOfEqualElements\obj\Debug\06.MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\ArraysExercises\06.MaxSequenceOfEqualElements\obj\Debug\06.MaxSequenceOfEqualElements.exe
+C:\Users\r.novachkov\Desktop\ArraysExercises\06.MaxSequenceOfEqualElements\obj\Debug\06.MaxSequenceOfEqualElements.pdb

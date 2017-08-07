@@ -1,0 +1,7 @@
+C:\Users\r.novachkov\Desktop\MethodsDebuggingAndTroubleshootingCode\PrintingTriangle\bin\Debug\PrintingTriangle.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\PrintingTriangle\bin\Debug\PrintingTriangle.exe.config
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\PrintingTriangle\bin\Debug\PrintingTriangle.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\PrintingTriangle\bin\Debug\PrintingTriangle.pdb
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\PrintingTriangle\obj\Debug\PrintingTriangle.csprojResolveAssemblyReference.cache
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\PrintingTriangle\obj\Debug\PrintingTriangle.exe
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\MethodsDebuggingAndTroubleshootingCode\PrintingTriangle\obj\Debug\PrintingTriangle.pdb

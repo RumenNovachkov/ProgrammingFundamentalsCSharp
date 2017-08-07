@@ -1,0 +1,6 @@
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe.config
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.pdb
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.exe
+C:\Users\r.novachkov\Source\Repos\Test-repo\DateTypeAndVariables\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.pdb

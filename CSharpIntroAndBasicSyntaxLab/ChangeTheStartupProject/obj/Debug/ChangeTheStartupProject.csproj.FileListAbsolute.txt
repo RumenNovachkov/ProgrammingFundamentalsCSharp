@@ -1,0 +1,1 @@
+\\RNOVACHKOVCLOUD\Archive\softUni\C#\Fundamentals\2017May\C# Intro and Basic Syntax - Lab\CSharpIntroAndBasicSyntaxLab\ChangeTheStartupProject\bin\Debug\ChangeTheStartupProject.exe.config

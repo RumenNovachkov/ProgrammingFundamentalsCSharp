@@ -1,0 +1,5 @@
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe.config
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.pdb
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.exe
+C:\Users\r.novachkov\Desktop\DataTypesAndVariablesExercises\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.pdb
